@@ -1,70 +1,55 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+ReactBlog Website:
+=============
+1.Designed and created a functional blog website using HTML, CSS,and JavaScript.
+2.Designed a clean and visually appealing layout for blog and CSS to style blog's appearance. 
+3.Created three blog posts each post contains title, content, date of publications, image.
+4.Implemented a navigation menu that allows users to navigate between the different blog posts.
+5.Added a comment section to each blog post.
+6.blog website is responsive and adapts to different screen sizes. Implemented CSS media queries to optimize the layout for mobile devices.
+7.Added additional features search button,social media sharing buttons, categories.
+8.Tested Blog Website application on different browsers works correctly.
+9.Included comments in HTML,CSS,Javascript files.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Built With:
+===========
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+HTML5** – Markup structure
+CSS – Utility-first CSS for custom styling
+JavaScript – Interactivity and post rendering
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Project Structure:
 
-### `npm run build`
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Blog-Site/
+├── index.html             # Homepage with blog post cards
+├── style.css              # Additional styling (if needed)
+├── script.js              # JavaScript for dynamic features
+````
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Run Locally:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/Amarnath-coder405/reactblog
+cd Blog-Website
+open index.html in your browser
+````
 
-### `npm run eject`
+Contributing:
+Pull requests are welcome!
+Feel free to fork the repo and enhance the UI, add new features, or fix bugs.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Author:
+Amarnath badugu
+baduguamarnath92@gmail.com
+GitHub Profile: https://github.com/Amarnath-coder405/reactblog
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you liked this project, don’t forget to give it a **star** on GitHub!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
