@@ -30,13 +30,14 @@ Blog-Site/
 ├── index.html             # Homepage with blog post cards
 ├── style.css              # Additional styling (if needed)
 ├── script.js              # JavaScript for dynamic features
+____React.js               # React js for virtual dom
 ````
 
 Run Locally:
 
 ```bash
 git clone https://github.com/Amarnath-coder405/reactblog
-cd Blog-Website
+cd reactblog
 open index.html in your browser
 ````
 
