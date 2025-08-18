@@ -1,6 +1,6 @@
 {
-  "name": "amarnath-blog",
-  "homepage": "https://Amarnath-coder405.github.io/",
+  "name": "reactblog",
+  "homepage": "https://Amarnath-coder405.github.io/reactblog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
