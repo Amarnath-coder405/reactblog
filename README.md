@@ -36,7 +36,7 @@ ____React.js               # React js for virtual dom
 Run Locally:
 
 ```bash
-git clone https://github.com/Amarnath-coder405/reactblog
+git clone https://github.com/Amarnath-coder405/reactblog/
 cd reactblog
 open index.html in your browser
 ````
